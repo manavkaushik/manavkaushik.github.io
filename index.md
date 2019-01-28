@@ -11,7 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# About me
+I'm a third year undergraduate student at Birla Institute Technology and Science, Pilani (BITS Pilani) pursuing B.E.(Hons.) Electrical & Electronics and M.Sc.(Hons.) Economics.
 ## Header 2
 ### Header 3
 
